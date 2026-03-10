@@ -1,0 +1,5 @@
+{
+  "name": "SimulAnamnesis: Simulador de Entrevista Clínica",
+  "description": "Plataforma educativa para estudiantes de medicina para practicar el interrogatorio clínico con pacientes virtuales impulsados por IA, recibiendo retroalimentación formativa y evaluación por competencias.",
+  "requestFramePermissions": []
+}
